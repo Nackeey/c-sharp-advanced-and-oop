@@ -1,0 +1,8 @@
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb

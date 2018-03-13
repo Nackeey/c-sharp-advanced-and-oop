@@ -1,0 +1,4 @@
+﻿interface IProduceSound
+{
+    string SayMoo();
+}

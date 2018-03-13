@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Worker.zip\**" />
+    <EmbeddedResource Remove="Worker.zip\**" />
+    <None Remove="Worker.zip\**" />
+  </ItemGroup>
+
+</Project>

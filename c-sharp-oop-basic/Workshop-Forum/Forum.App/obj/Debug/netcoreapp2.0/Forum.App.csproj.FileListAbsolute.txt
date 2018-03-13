@@ -1,0 +1,15 @@
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\cvetelina\source\repos\Workshop-Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb
